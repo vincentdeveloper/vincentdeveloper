@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vincentdeveloper
-- 👀 I’m interested in progamming staff like python, java, c php,flutter
-- 🌱 I’m currently learning database, networking and ethical hacking
+- 👀 I’m interested in progamming staff like python, react, react native,flutter
+- 🌱 I’m currently learning Django rest framework and connecting to Ui using Flutter or react 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vincentdeveloper101@gmail.com
 -    here is my portfolio  https://vincentdeveloper.github.io/
